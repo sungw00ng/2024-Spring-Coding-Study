@@ -10,16 +10,15 @@
   </tr>
   <tr>
     <td>스터디 시간</td>
-    <td>매주 수요일 18:00~20:00 목요일 18:00 ~ 20:00
+    <td>매주 수, 목 18:00 ~ 20:00
   </tr>
   <tr>
     <td>공부할 것</td>
-    <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black">
-        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
-        <img src="https://img.shields.io/badge/algorithm-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=black">
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
     </td>
   </tr>
 </table>
+
 2024년 1학기에 진행한 코딩테스트 동아리, 활동 PPT  모음집입니다.      
 
 [주 교재]   
