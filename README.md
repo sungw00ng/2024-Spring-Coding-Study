@@ -19,6 +19,20 @@
   </tr>
 </table>
 
+# 👨‍🎓 스터디 멤버
+
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/dryflowery"><img src="https://avatars.githubusercontent.com/sungw00ng" width="200px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jihan2hal"><img src="https://avatars.githubusercontent.com/hyuyu1012" width="200px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/sungw00ng"><b>Sungwoong Bak</b></a></td>
+    <td align="center"><a href="https://github.com/hyuyu1012"><b>Hyeon-gu Han</b></a></td>
+  </tr>
+</table>
+
+<br>
 2024년 1학기에 진행한 코딩테스트 동아리, 활동 PPT  모음집입니다.      
 
 [주 교재]   
