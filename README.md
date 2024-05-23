@@ -29,7 +29,7 @@
   <tr>
     <td align="center"><a href="https://github.com/sungw00ng"><b>Sungwoong Bak</b></a></td>
     <td align="center"><a href="https://github.com/hyuyu1012"><b>Hyeon-gu Han</b></a></td>    
-    <td align="center"><a href="https://github.com/kykbsj"><b>min-woo Gang</b></a></td>  
+    <td align="center"><a href="https://github.com/kykbsj"><b>min-woo Gang</b></a></td></td>  
 </tr>
 </table>
 
