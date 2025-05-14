@@ -30,8 +30,13 @@
     <td align="center"><a href="https://github.com/sungw00ng"><b>Sungwoong Bak</b></a></td>
     <td align="center"><a href="https://github.com/hyuyu1012"><b>Hyeon-gu Han</b></a></td>    
     <td align="center"><a href="https://github.com/kykbsj"><b>min-woo Gang</b></a></td></td>  
+    <td align="center"><b>이주관</b></a></td></td>
+    <td align="center"><b>임상민</b></a></td></td>
+    <td align="center"><b>최지원</b></a></td></td>
+    <td align="center"><b>박수현</b></a></td></td>
 </tr>
 </table>
+이주관, 임상민, 최지원, 박수현
 
 <br>
 2024년 1학기에 진행한 코딩테스트 동아리, 활동 PPT  모음집입니다.      
@@ -44,12 +49,12 @@
 https://wikidocs.net/book/922   
 -점프 투 파이썬   
 https://wikidocs.net/4307   
-
-OT-지원금 신청 과정과, 동아리 학습 교재 선정
-1회차-파이썬 기본 문법   
-2회차-그리디와 구현   
-3회차-정렬   
-4회차-스택 큐 덱   
-5회차-인접행렬과 리스트, DFS   
-6회차-BFS, 이진탐색   
-7회차-DP   
+<br>
+OT-지원금 신청 과정과, 동아리 학습 교재 선정<br>
+1회차-파이썬 기본 문법   <br>
+2회차-그리디와 구현   <br>
+3회차-정렬   <br>
+4회차-스택 큐 덱   <br>
+5회차-인접행렬과 리스트, DFS   <br>
+6회차-BFS, 이진탐색   <br>
+7회차-DP   <br>
